@@ -40,7 +40,7 @@ public class Student
         {
             this.name = name;
         }
-    }
+    }//adding a test comment
 
     public String getSSN() {
         return SSN;
